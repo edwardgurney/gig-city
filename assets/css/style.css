@@ -4,9 +4,23 @@
     margin: 0;
     padding: 0;
     border: none;
+    background-color: #28294B
 }
 
 body {
     font-family: anton, sans-serif;
-    font-size: ;
+    color: #ABA9BB
+}
+
+/* headings and logo */
+
+h1, h2 {
+    font-family: roboto, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+#gig-city {
+    float: left;
+    font-size: 400%;
 }
