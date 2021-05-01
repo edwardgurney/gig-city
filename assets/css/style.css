@@ -57,3 +57,10 @@ h1, h2 {
 .active-page {
     border-bottom: 2px solid;
 }
+
+/* Site intro and brief blurb */
+
+.venue-intro {
+    margin: 100px;
+
+}
